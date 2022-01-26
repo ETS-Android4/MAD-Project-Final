@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.madlabproject">
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="BMSCE Course Management System"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.example.madlabproject.MessageTeacher"></activity>
+        <activity android:name="com.example.madlabproject.MessageStudent" />
+        <activity android:name="com.example.madlabproject.Submit_List" />
+        <activity android:name="com.example.madlabproject.Add_Comment" />
+        <activity android:name="com.example.madlabproject.Post_Comment" />
+        <activity android:name="com.example.madlabproject.Upload_Assignment" />
+        <activity android:name="com.example.madlabproject.Assigment_List" />
+        <activity android:name="com.example.madlabproject.Assigment" />
+        <activity android:name="com.example.madlabproject.Announcment" />
+        <activity android:name="com.example.madlabproject.Post" />
+        <activity android:name="com.example.madlabproject.Course_Menu" />
+        <activity android:name="com.example.madlabproject.Course" />
+        <activity android:name="com.example.madlabproject.teachermenu" />
+        <activity android:name="com.example.madlabproject.Log" />
+        <activity android:name="com.example.madlabproject.Student_Menu" />
+        <activity android:name="com.example.madlabproject.StudentPage" />
+        <activity android:name="com.example.madlabproject.List_Teacher" />
+        <activity android:name="com.example.madlabproject.List_Student" />
+        <activity android:name="com.example.madlabproject.Teacher_Login" />
+        <activity android:name="com.example.madlabproject.Teacher_Page" />
+        <activity android:name="com.example.madlabproject.Admin" />
+        <activity android:name="com.example.madlabproject.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

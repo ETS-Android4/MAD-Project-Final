@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/drawable_amber_gradient.xml" value="0.25677083333333334" />
+        <entry key="app/src/main/res/drawable/drawable_green_gradient.xml" value="0.134375" />
+        <entry key="app/src/main/res/drawable/drawable_purple_gradient.xml" value="0.134375" />
+        <entry key="app/src/main/res/drawable/drawable_red_gradient.xml" value="0.134375" />
+        <entry key="app/src/main/res/drawable/gradient_center.xml" value="0.16574074074074074" />
+        <entry key="app/src/main/res/drawable/gradient_end.xml" value="0.16574074074074074" />
+        <entry key="app/src/main/res/drawable/gradient_start.xml" value="0.25677083333333334" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.134375" />
+        <entry key="app/src/main/res/layout/activity_add__comment.xml" value="0.16" />
+        <entry key="app/src/main/res/layout/activity_admin.xml" value="0.11702127659574468" />
+        <entry key="app/src/main/res/layout/activity_announcment.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_assigment.xml" value="0.11702127659574468" />
+        <entry key="app/src/main/res/layout/activity_assigment__list.xml" value="0.11702127659574468" />
+        <entry key="app/src/main/res/layout/activity_course.xml" value="0.16" />
+        <entry key="app/src/main/res/layout/activity_course__menu.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/activity_list__student.xml" value="0.11702127659574468" />
+        <entry key="app/src/main/res/layout/activity_list__teacher.xml" value="0.11702127659574468" />
+        <entry key="app/src/main/res/layout/activity_log.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_message_student.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_message_teacher.xml" value="0.11702127659574468" />
+        <entry key="app/src/main/res/layout/activity_post.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/activity_post__comment.xml" value="0.11702127659574468" />
+        <entry key="app/src/main/res/layout/activity_student__menu.xml" value="0.11702127659574468" />
+        <entry key="app/src/main/res/layout/activity_student_page.xml" value="0.11702127659574468" />
+        <entry key="app/src/main/res/layout/activity_submit__list.xml" value="0.11702127659574468" />
+        <entry key="app/src/main/res/layout/activity_teacher__login.xml" value="0.11702127659574468" />
+        <entry key="app/src/main/res/layout/activity_teacher__page.xml" value="0.11702127659574468" />
+        <entry key="app/src/main/res/layout/activity_teachermenu.xml" value="0.11702127659574468" />
+        <entry key="app/src/main/res/layout/activity_upload__assignment.xml" value="0.11702127659574468" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
